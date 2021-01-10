@@ -5,7 +5,7 @@
 
 Submitted by: **Carlos Sanchez**
 
-Time spent: **4** hours spent in total
+Time spent: **7** hours spent in total
 
 ## User Stories
 
@@ -34,6 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+I couldn't debug my program. I looked over the videos and my code but still couldn't figure out where it went wrong. Then I was running out of time. 
 
 ## License
 
